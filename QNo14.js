@@ -6,4 +6,4 @@ guestList.push("Adnan Khalil", "Asif Riaz", "Zeeshan Ghani", "Zeeshan Shafi", "A
 for (let name of guestList) {
     console.log("Hello!", name, "You are ainvited to dinner at my place");
 }
-export {};
+export { guestList };

@@ -8,3 +8,4 @@ for (let name of guestList)
 {
 console.log("Hello!",name,"You are ainvited to dinner at my place");
 }
+export{guestList};
